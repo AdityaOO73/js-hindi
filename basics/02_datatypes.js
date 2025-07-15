@@ -11,7 +11,7 @@ boolean=>true/false
 null=>standalone value(EMPTY)
 UNDEFINED=>
 symbol
-________________
+
 
 object
 
