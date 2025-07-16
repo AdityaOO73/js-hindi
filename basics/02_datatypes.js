@@ -17,5 +17,6 @@ object
 
 */
 console.log(typeof "Aditya")
+console.log(typeof 25)
 console.log(typeof null)
 console.log(typeof undefined)
